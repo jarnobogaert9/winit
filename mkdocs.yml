@@ -6,7 +6,8 @@ repo_name: 'jarnobogaert9/winit'
 repo_url: 'https://github.com/jarnobogaert9/winit'
 
 nav:
-    - './Modules'
+    - 'Home': './'
+    - 'Modules': '/Modules/'
 
 theme:
   name: 'material'
