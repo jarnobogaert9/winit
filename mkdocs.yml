@@ -1,0 +1,9 @@
+site_name: Win it
+site_description: 'Win it docs'
+site_author: 'Jarno Bogaert'
+docs_dir: docs/
+repo_name: 'jarnobogaert9/winit'
+repo_url: 'https://github.com/jarnobogaert9/winit'
+
+theme:
+  name: 'material'
