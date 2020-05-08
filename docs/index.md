@@ -15,3 +15,5 @@ Deze pagina bevat alle documentatie over het project 'Win It'.
 # Modules
 ## Core Service
 ## Paypal Service
+
+&copy; Logan Bogaert en Jarno Bogaert
