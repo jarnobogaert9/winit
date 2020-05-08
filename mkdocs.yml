@@ -5,5 +5,8 @@ docs_dir: docs/
 repo_name: 'jarnobogaert9/winit'
 repo_url: 'https://github.com/jarnobogaert9/winit'
 
+nav:
+    - './Modules'
+
 theme:
   name: 'material'
