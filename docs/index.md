@@ -16,7 +16,7 @@ Deze pagina bevat alle documentatie over het project 'Win It'.
 - De gebruiker moet de mogelijkheid hebben om zijn gebruikersdata te wijzigen.
 - De gebruiker heeft de keuze om een "Winbox" aan te maken. Hij/zij kan hiervan de instellingen zelf bepalen (aantal spelers, inzet & etc)
 - Langst de andere kant kan een gebruiker ook deelnemen aan een winbox.
-- Als een gebruiker deelneemt aan de winbox moet hij een [spel](#spel) spelen waardoor hij deze winbox kan winnen.
+- Wanneer een gebruiker deelneemt aan een winbox kan hij een [spel](#spel) spelen waardoor hij deze winbox kan winnen.
 - De gebruiker moet winboxen kunnen raadplegen volgens zijn voorkeuren (prijs & etc).
 - De gebruiker kan premium of gold abonnementen aanvragen
 - De gebruiker moet coins kunnen aankopen
@@ -29,8 +29,6 @@ De gebruiker speelt een quiz waarmee hij/zij punten kan winnen.
 De persoon met de meeste punten wint de winbox.
 De score wordt beïnvloed door de snelheid waarmee hij/zij deze oplost.
 
-# UI & UX
-
 ## Pages
 - Feed
     - Feed instellingen
@@ -42,6 +40,8 @@ De score wordt beïnvloed door de snelheid waarmee hij/zij deze oplost.
 - Coins inruilen voor geld
 - Profiel pagina met al zijn gegevens
     - Subpagina met tegels (change userinfo, change paypal adress)
+
+## Wireframes
 
 # Modules
 ## Core Service
